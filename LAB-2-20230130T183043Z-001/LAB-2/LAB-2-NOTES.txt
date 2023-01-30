@@ -1,0 +1,19 @@
+* PATH OF DERBY-CLITENT.JAR :- 
+C:\Program Files\Sun\JavaDB\lib
+OR.
+C:\Program Files\glassfish-v2\lib
+
+DB URL :- jdbc:derby://localhost:1527/TELE_DIRECTORY
+DRIVER :- org.apache.derby.jdbc.ClientDriver
+
+
+SELECT * FROM VRAJ_PATEL.TELE_DIR;
+
+INSERT INTO TELE_DIR
+(NAME, SUR_NAME, NUMBER)
+VALUES
+('AJAY', 'PATEL', 9876238967),
+('KARAN', 'SOLANKI', 9896266967),
+('KHUSHI', 'SHAH', 9976288967),
+('SURAJ', 'PATEL', 8776898967),
+('MEET', 'PATEL', 9376898967);
