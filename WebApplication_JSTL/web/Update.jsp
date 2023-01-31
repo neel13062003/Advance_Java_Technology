@@ -5,58 +5,39 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%@ taglib  uri="http://java.sun.com/jsp/jstl/functions"  prefix="fn" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/sql" prefix="sql" %>
+
 <!DOCTYPE html>
 <html>
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta charset="UTF-8">
         <title>Update My Record</title>
     </head>
-    <body> 
-        <%@page import="java.sql.*"%>
-        <%   
-            HttpSession session2 = request.getSession();
-            String uname =  session2.getAttribute("uname").toString(); 
-           
-            // Get the new data for the record
-            String username = request.getParameter("username").toString();
-            String fullname = request.getParameter("fullname").toString();
-            String sem = request.getParameter("sem").toString();
-            String rollno = request.getParameter("rollno").toString();
-            String contact = request.getParameter("contact").toString();
-            String email = request.getParameter("email").toString();
-           
+    <body>
+        <sql:setDataSource var="ds" driver="org.apache.derby.jdbc.ClientDriver"
+                           url="jdbc:derby://localhost:1527/Student_Table" user="neel" password="neel" />
+        <sql:update var="rs" dataSource="${ds}">
+            UPDATE NEEL.DETAILS SET USERNAME=? , FULLNAME = ?, SEM = ?, ROLLNO = ?, CONTACT = ?, EMAIL = ? WHERE USERNAME = ?
+            <sql:param value="${param.username}" />
+            <sql:param value="${param.fullname}" />
+            <sql:param value="${param.sem}" />
+            <sql:param value="${param.rollno}" />
+            <sql:param value="${param.contact}" />
+            <sql:param value="${param.email}" />
+            <sql:param value="${sessionScope.uname}" />
+        </sql:update>
 
-            // Load the JDBC driver
-            Class.forName("org.apache.derby.jdbc.ClientDriver");
+        <c:if test="${rs > 0}">
+            Record updated successfully!
+            <c:redirect url="./Display.jsp" />
+        </c:if>
+        <c:if test="${rs <= 0}">
+            Error updating record!
+        </c:if>
 
-            // Connect to the database
-            Connection con = DriverManager.getConnection("jdbc:derby://localhost:1527/Student_Table", "neel", "neel");
-
-            // Create a statement object
-            PreparedStatement st = con.prepareStatement("UPDATE NEEL.DETAILS SET USERNAME=? , FULLNAME = ?, SEM = ?, ROLLNO = ?, CONTACT = ?, EMAIL = ? WHERE USERNAME = ?");
-            st.setString(1, username);
-            st.setString(2, fullname);
-            st.setString(3, sem);
-            st.setString(4, rollno);
-            st.setString(5, contact);
-            st.setString(6, email);
-            st.setString(7, uname);
-          
-
-            // Execute the query
-            int result = st.executeUpdate();
-
-            if(result > 0){
-                // Record updated successfully
-                out.println("Record updated successfully!");
-                response.sendRedirect("./Display.jsp");   //same page par j reflect
-            }else{
-                // An error occurred
-                out.println("Error updating record!");
-            }
-
-            // Close the connection
-            con.close();
-        %>
     </body>
 </html>
+
+
