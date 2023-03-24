@@ -10,5 +10,6 @@ This Repository Contains Good Small Projects of Basic & Important concepts of Ja
 
 
 *** Java RMI Implementation = https://youtu.be/ya6LSHhJfvM ***
+*** EJB => https://youtu.be/jhcoCVWyQDs  ***
 
 
