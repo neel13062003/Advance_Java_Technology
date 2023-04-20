@@ -1,0 +1,27 @@
+*** AJT = Advanced Java Technology ***
+
+Very Useful Playlist = "https://www.youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb"
+=> { Most Important Lab All Experiments (More Focus On) }
+Lastly one time see S1,S2,S3
+
+*** Most Important Advice : Not See Any PPT/PDF ***
+
+- JDBC(See Some gui portion as well) = "https://youtu.be/lZbl7Q21t4s"
+- JSP, Servlet
+- Cookies,Session,Request Dispactcher
+- Url Rewriting
+- JSTL
+- Servet Filter
+- Custom Tag
+- Security
+- RMI  = "https://www.youtube.com/watch?v=XLJmx-BXo-A" , "https://www.youtube.com/watch?v=bGrQ0v12rVY"
+- SessionBean (Java EnterPrice Eddition) 
+ { EJB  (i)Sateless (ii)Statefull (iii)Singleton = "https://www.youtube.com/playlist?list=PLsyeobzWxl7rsZPajEm5GnIWosY1mMxbd" }
+
+
+*** Important Link ***
+https://drive.google.com/drive/u/0/folders/1nV-eT6UxYvxJdLOxAJF3z5AQUGKdo_PI => Amazing follow video and create folder as suggest.
+https://sites.google.com/site/prajapatiharshadb/class-notes-for-students =>hbp
+https://sites.google.com/site/vipulkdabhi/class-notes-for-students?authuser=0 =>vipul dabhi
+
+https://drive.google.com/drive/folders/1mX6hMkSYbWk6y7unIsI38Cs07aeTYsD3 => Vraj
