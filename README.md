@@ -1,19 +1,15 @@
-*** AJT = Advanced Java Technology ***
+<h1>*** AJT = Advanced Java Technology ***</h1>
 
-This Repository Contains Good Small Projects of Basic & Important concepts of Java JDBC , JSP , SERVLET , HYBERNET ...
+<h3>This Repository Contains Good Small Projects of Basic & Important concepts of Java JDBC , JSP , SERVLET , HYBERNET , Spring MVC ...</h3>
 
-*** Link For GUI Based Most basic JDBC Connection => https://drive.google.com/drive/folders/1mX6hMkSYbWk6y7unIsI38Cs07aeTYsD3
-
-*** Link For Setup Netbeans and Make Connection To Derby Database Program => https://drive.google.com/drive/u/0/folders/1nV-eT6UxYvxJdLOxAJF3z5AQUGKdo_PI
-
-*** Complete Jsp-servlet amazing playlist => https://youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb
-
-
-*** Java RMI Implementation = https://youtu.be/ya6LSHhJfvM ***
-*** EJB => https://youtu.be/jhcoCVWyQDs  ***
+<li> <a href="https://drive.google.com/drive/folders/1mX6hMkSYbWk6y7unIsI38Cs07aeTYsD3" target="_blank"> Link For GUI Based Most basic JDBC Connection </a> </li>
+<li> <a href="https://drive.google.com/drive/u/0/folders/1nV-eT6UxYvxJdLOxAJF3z5AQUGKdo_PI" target="_blank"> Link For Setup Netbeans and Make Connection To Derby Database Program </a> </li>
+<li> <a href="https://youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb" target="_blank"> Complete Jsp-servlet amazing playlist  </a></li>
+<li> <a href=" https://youtu.be/ya6LSHhJfvM" target="_blank" > Java RMI Implementation </a></li>
+<li><a href="https://youtu.be/jhcoCVWyQDs" target="_blank"> EJB </a> </li>
 
 
-<h3>Very Useful Playlist = <a href= "https://www.youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb" target="_blank" > Link </a> </h3>
+<h3 <a href= "https://www.youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb" target="_blank" > >Very Useful Playlist  </a> </h3>
 <h4>{ Most Important Lab All Experiments (More Focus On) }</h4>
 <h4>Lastly one time see S1,S2,S3</h4>
 
