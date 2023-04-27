@@ -1,8 +1,8 @@
 <h1>*** AJT = Advanced Java Technology ***</h1>
 
-<h3>This Repository Contains Good Small Projects of Basic & Important concepts of Java JDBC , JSP , SERVLET , HYBERNET , Spring MVC ...</h3>
+<h3>This Repository Contains Good Small Projects of Basic & Important concepts of Java JDBC , JSP , SERVLET , HYBERNET , Spring MVC ...</h3></hr></br>
 <h4>Lastly one time see S1,S2,S3</h4>
-
+</br></hr>
 <h2>*** Most Important Advice : Not See Any PPT/PDF ***</h2>
 
 
@@ -31,8 +31,8 @@
 <li> <a href="https://youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb" target="_blank"> Complete Jsp-servlet amazing playlist  </a></li>
 <li> <a href=" https://youtu.be/ya6LSHhJfvM" target="_blank" > Java RMI Implementation </a></li>
 <li><a href="https://youtu.be/jhcoCVWyQDs" target="_blank"> EJB </a> </li>
-<h3 <a href= "https://www.youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb" target="_blank" > >Very Useful Playlist  </a> </h3>
-<h4>{ Most Important Lab All Experiments (More Focus On) }</h4>
+<li> <a href= "https://www.youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb" target="_blank" > >Very Useful Playlist  </a> </li>
+<li>{ Most Important Lab All Experiments (More Focus On) }</li>
                                                                                                  
 
 
