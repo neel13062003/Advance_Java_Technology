@@ -14,8 +14,8 @@
 <li>- Servet Filter </li> 
 <li>- Custom Tag </li>
 <li>- Security </li>
-<li>- RMI =   <a href="https://www.youtube.com/watch?v=XLJmx-BXo-A target="_blank" "> Link1 </a> </li> 
-<a href="https://www.youtube.com/watch?v=bGrQ0v12rVY" target="_blank" >Link2 </a> 
+<li>- RMI =   <a href="https://www.youtube.com/watch?v=XLJmx-BXo-A target="_blank" "> Link1 </a> ,
+<a href="https://www.youtube.com/watch?v=bGrQ0v12rVY" target="_blank" >Link2 </a> </li>
 <li>- SessionBean (Java EnterPrice Eddition)  </li>
 <li>-{ EJB  (i)Sateless (ii)Statefull (iii)Singleton = <a href="https://www.youtube.com/playlist?list=PLsyeobzWxl7rsZPajEm5GnIWosY1mMxbd" target="_blank" > Link </a> } </li>
 
@@ -30,8 +30,8 @@
 <li> <a href="https://drive.google.com/drive/folders/1mX6hMkSYbWk6y7unIsI38Cs07aeTYsD3" target="_blank"> Link For GUI Based Most basic JDBC Connection </a> </li>
 <li> <a href="https://drive.google.com/drive/u/0/folders/1nV-eT6UxYvxJdLOxAJF3z5AQUGKdo_PI" target="_blank"> Link For Setup Netbeans and Make Connection To Derby Database Program </a> </li>
 <li> <a href="https://youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb" target="_blank"> Complete Jsp-servlet amazing playlist  </a></li>
-<li> <a href=" https://youtu.be/ya6LSHhJfvM" target="_blank" > Java RMI Implementation </a></li>
-<li><a href="https://youtu.be/jhcoCVWyQDs" target="_blank"> EJB </a> </li>
+<li> <a href="https://youtu.be/ya6LSHhJfvM" target="_blank" > Java RMI Implementation </a></li>
+<li> <a href="https://youtu.be/jhcoCVWyQDs" target="_blank"> EJB </a> </li>
 <li> <a href= "https://www.youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb" target="_blank" > >Very Useful Playlist  </a> </li>
 
                                                                                                  
