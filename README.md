@@ -32,8 +32,8 @@
 <li> <a href="https://youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb" target="_blank"> Complete Jsp-servlet amazing playlist  </a></li>
 <li> <a href="https://youtu.be/ya6LSHhJfvM" target="_blank" > Java RMI Implementation </a></li>
 <li> <a href="https://youtu.be/jhcoCVWyQDs" target="_blank"> EJB </a> </li>
-<li> <a href= "https://www.youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb" target="_blank" > >Very Useful Playlist  </a> </li>
-
+<li> <a href= "https://www.youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb" target="_blank" > Very Useful Playlist  </a> </li>
+<li> <a href= "https://youtu.be/-O4QVijnA7Y" > Java JDK path setup</a></li>
                                                                                                  
 
 
